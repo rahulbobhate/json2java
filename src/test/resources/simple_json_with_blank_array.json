@@ -1,0 +1,7 @@
+{
+	"name":"Sherlock",
+	"age":35,
+	"salary":90.0,
+	"isAlive":true,
+	"children":[]
+}
